@@ -1344,3 +1344,5 @@ function Library:new()
     end
     return Tab
 end
+
+return Library
